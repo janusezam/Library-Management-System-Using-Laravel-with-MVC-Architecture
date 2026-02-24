@@ -133,8 +133,8 @@
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M12 4v16m8-8H4"></path>
                 </svg>
             </div>
-            <h4 class="text-lg font-black text-slate-900 tracking-tight group-hover:text-white transition-all duration-500">New Protocol</h4>
-            <p class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mt-1 group-hover:text-emerald-100 transition-all duration-500">Initialize borrow session</p>
+            <h4 class="text-lg font-black text-slate-900 tracking-tight group-hover:text-white transition-all duration-500">Start Borrowing</h4>
+            <p class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mt-1 group-hover:text-emerald-100 transition-all duration-500">Begin Borrowing Session</p>
         </a>
 
         <a href="{{ route('books.create') }}" class="group bg-white p-8 rounded-[2.5rem] border border-slate-100 shadow-xl shadow-slate-200/50 hover:bg-indigo-600 transition-all duration-500">
@@ -143,8 +143,8 @@
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 13h6m-3-3v6m5 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
                 </svg>
             </div>
-            <h4 class="text-lg font-black text-slate-900 tracking-tight group-hover:text-white transition-all duration-500">Catalog Entry</h4>
-            <p class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mt-1 group-hover:text-indigo-100 transition-all duration-500">Register new library asset</p>
+            <h4 class="text-lg font-black text-slate-900 tracking-tight group-hover:text-white transition-all duration-500">Add New Book</h4>
+            <p class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mt-1 group-hover:text-indigo-100 transition-all duration-500">Add Library Book</p>
         </a>
 
         <a href="{{ route('students.create') }}" class="group bg-white p-8 rounded-[2.5rem] border border-slate-100 shadow-xl shadow-slate-200/50 hover:bg-slate-900 transition-all duration-500">
@@ -153,8 +153,8 @@
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z"></path>
                 </svg>
             </div>
-            <h4 class="text-lg font-black text-slate-900 tracking-tight group-hover:text-white transition-all duration-500">Member Onboarding</h4>
-            <p class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mt-1 group-hover:text-indigo-400 transition-all duration-500">Register identity record</p>
+            <h4 class="text-lg font-black text-slate-900 tracking-tight group-hover:text-white transition-all duration-500">Add Member</h4>
+            <p class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mt-1 group-hover:text-indigo-400 transition-all duration-500">Create Member Record</p>
         </a>
     </div>
 @endsection
