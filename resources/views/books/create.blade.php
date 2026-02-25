@@ -87,11 +87,11 @@
                 <div class="mt-12 flex gap-4">
                     <a href="{{ route('books.index') }}" 
                        class="flex-1 text-center py-4 bg-slate-100 hover:bg-slate-200 text-slate-600 font-black uppercase tracking-widest text-[10px] rounded-2xl transition-all">
-                        Abort
+                        Cancel Registration
                     </a>
                     <button type="submit" 
                             class="flex-[2] py-4 bg-slate-900 hover:bg-indigo-600 text-white font-black uppercase tracking-widest text-[10px] rounded-2xl shadow-xl shadow-slate-200 transition-all duration-300">
-                        Commit Registration
+                        Confirm Registration
                     </button>
                 </div>
             </form>

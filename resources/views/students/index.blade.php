@@ -44,10 +44,10 @@
             <table class="w-full border-collapse">
                 <thead>
                     <tr class="bg-slate-50/50">
-                        <th class="px-8 py-6 text-left text-[10px] font-black text-slate-400 uppercase tracking-widest">Security ID</th>
+                        <th class="px-8 py-6 text-left text-[10px] font-black text-slate-400 uppercase tracking-widest">Student ID</th>
                         <th class="px-8 py-6 text-left text-[10px] font-black text-slate-400 uppercase tracking-widest">Student Information</th>
                         <th class="px-8 py-6 text-left text-[10px] font-black text-slate-400 uppercase tracking-widest">Academic Details</th>
-                        <th class="px-8 py-6 text-left text-[10px] font-black text-slate-400 uppercase tracking-widest">Burden Status</th>
+                        <th class="px-8 py-6 text-left text-[10px] font-black text-slate-400 uppercase tracking-widest">Responsibility Level</th>
                         <th class="px-8 py-6 text-right text-[10px] font-black text-slate-400 uppercase tracking-widest">Operations</th>
                     </tr>
                 </thead>

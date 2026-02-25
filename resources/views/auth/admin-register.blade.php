@@ -1,7 +1,7 @@
 <x-guest-layout>
     <div class="mb-4">
-        <h2 class="text-2xl font-bold text-gray-900">{{ __('Create Admin Account') }}</h2>
-        <p class="text-sm text-gray-600 mt-2">{{ __('Register a new administrator account') }}</p>
+        <h2 class="text-2xl font-bold text-gray-900">{{ __('Admin Registration') }}</h2>
+        <p class="text-sm text-gray-600 mt-2">{{ __('Create a new administrator account') }}</p>
     </div>
 
     <form method="POST" action="{{ route('register') }}">
@@ -50,7 +50,7 @@
             </a>
 
             <x-primary-button class="ms-4">
-                {{ __('Register') }}
+                {{ __('Register as Admin') }}
             </x-primary-button>
         </div>
     </form>
